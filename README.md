@@ -1,4 +1,4 @@
-
+原博主链接 https://github.com/HuaWeng/blog/blob/master/README.md#%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2
 # 写在前面
 我们说搭建shadowsocks 服务器、VPN 服务器，首先，**你得有个服务器**。国内的有阿里云，腾讯云。不过他们都太贵了，我就搭建shadowsocks 服务器就为了查点资料用用每个月还要七八十块 T_T，而且在国内的服务器做这类事情还是会有很多限制的。经过多方试用和筛选，最后选定了[vultr](https://www.vultr.com/?ref=6940313)， [vultr](https://www.vultr.com/?ref=6940313)每个月最低只要5美元，稳定性很好，客服回复速度也很快。最重要的是，
 
